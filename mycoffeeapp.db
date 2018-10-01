@@ -1,0 +1,2 @@
+{"name":"Frappucino","place":"Café do Ponto","location":{"address":"São Paulo","city":"São Paulo","latitude":-21.7645056,"longitude":-41.3360128},"tastingRating":{"intensity":5,"sweetness":7,"aftertaste":10,"flavor":7},"type":"Cappuccino","rating":6,"_id":"9g9493tvmZyT15ix"}
+{"name":"Espresso Leche","place":"Café do Ponto","location":{"address":"São Paulo","city":"São Paulo","latitude":-21.7645056,"longitude":-41.3360128},"tastingRating":null,"type":"Espresso","rating":8,"_id":"Xj91E8y4TlMLbAJx"}
